@@ -1,0 +1,44 @@
+2020-09-21 21:16:27,879 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 21:16:56,478 :INFO :test_e2e :getting all the cart titles
+2020-09-21 21:16:56,728 :INFO :test_e2e :Entering country name as Ind
+2020-09-21 21:17:02,208 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 21:21:46,481 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 21:22:14,792 :INFO :test_e2e :getting all the cart titles
+2020-09-21 21:22:15,038 :INFO :test_e2e :Entering country name as Ind
+2020-09-21 21:22:20,539 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 21:25:08,916 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 21:25:15,067 :INFO :test_e2e :getting all the cart titles
+2020-09-21 21:25:15,419 :INFO :test_e2e :Entering country name as Ind
+2020-09-21 21:25:20,885 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 21:33:36,080 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 21:33:42,410 :INFO :test_e2e :getting all the cart titles
+2020-09-21 21:33:42,672 :INFO :test_e2e :Entering country name as Ind
+2020-09-21 21:33:48,165 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 22:06:10,549 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 22:06:37,902 :INFO :test_e2e :getting all the cart titles
+2020-09-21 22:06:38,298 :INFO :test_e2e :Entering country name as Ind
+2020-09-21 22:06:44,093 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 22:12:33,622 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 22:13:01,064 :INFO :test_e2e :getting all the cart titles
+2020-09-21 22:13:57,213 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 22:14:24,869 :INFO :test_e2e :getting all the cart titles
+2020-09-21 22:16:10,708 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 22:16:38,001 :INFO :test_e2e :getting all the cart titles
+2020-09-21 22:16:38,520 :INFO :test_e2e :Entering country name as Ind
+2020-09-21 22:16:44,319 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 22:16:57,210 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 22:17:04,253 :INFO :test_e2e :getting all the cart titles
+2020-09-21 22:17:04,970 :INFO :test_e2e :Entering country name as Ind
+2020-09-21 22:17:10,742 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-09-21 22:18:52,482 :INFO :test_formSubmission :first name isAravind 
+2020-09-21 22:19:19,243 :INFO :test_e2e :getting all the cart titles
+2020-09-21 22:19:19,535 :INFO :test_e2e :Entering country name as Ind
+2020-09-21 22:19:25,033 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).

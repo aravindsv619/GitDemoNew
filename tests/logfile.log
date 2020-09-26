@@ -1,0 +1,8 @@
+2020-08-27 14:40:44,526 :INFO :test_e2e :getting all the cart titles
+2020-08-27 14:40:45,187 :INFO :test_e2e :Entering country name as Ind
+2020-08-27 14:40:50,976 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-08-27 14:44:46,765 :INFO :test_e2e :getting all the cart titles
+2020-08-27 14:44:47,403 :INFO :test_e2e :Entering country name as Ind
+2020-08-27 14:44:53,250 :INFO :test_e2e :Text received from application is ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
